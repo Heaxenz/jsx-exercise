@@ -1,0 +1,13 @@
+.tweet{
+    border: solid blue 1px;
+    border-radius: 5px;
+    padding:20px;
+    height:100px;
+}
+.img {
+    height:100px;
+}
+.date,.username {
+    padding:10px;
+    color:grey;
+}
